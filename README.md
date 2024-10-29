@@ -17,7 +17,6 @@ The Libft library includes the following functions:
 - `ft_memset`
 - `ft_bzero`
 - `ft_memcpy`
-- `ft_memccpy`
 - `ft_memmove`
 - `ft_memchr`
 - `ft_memcmp`
@@ -46,10 +45,15 @@ The Libft library includes the following functions:
 - `ft_split`
 - `ft_itoa`
 - `ft_strmapi`
+- `ft_striteri`
 - `ft_putchar_fd`
 - `ft_putstr_fd`
 - `ft_putendl_fd`
 - `ft_putnbr_fd`
+
+### Part 3 - Bonus Part
+- `ft_lst`
+- `ft_lstadd`
 
 ## Usage
 To use the Libft library in your project, follow these steps:
