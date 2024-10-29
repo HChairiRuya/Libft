@@ -62,11 +62,3 @@ git clone https://github.com/HChairiRuya/Libft.git
 ```
 make
 ```
-3. Include the header file in your C file:
-```c
-#include "libft.h"
-```
-4. Link the library when compiling your project:
-```
-gcc -o my_program my_program.c -L. -lft
-```
