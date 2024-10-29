@@ -56,7 +56,7 @@ To use the Libft library in your project, follow these steps:
 
 1. Clone the repository to your local machine:
 ```
-git clone https://github.com/HChairiRuya/libft.git
+git clone https://github.com/HChairiRuya/Libft.git
 ```
 2. Compile the library:
 ```
