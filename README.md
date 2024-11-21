@@ -1,4 +1,4 @@
-# Libft
+# 42 Libft
 
 Libft is a project completed during the 42 curriculum, where the goal is to recreate some of the standard C library functions, as well as additional utility functions.
 
@@ -60,7 +60,7 @@ To use the Libft library in your project, follow these steps:
 
 1. Clone the repository to your local machine:
 ```
-git clone https://github.com/HChairiRuya/Libft.git
+git clone https://github.com/HoudaChairi/42_Libft.git
 ```
 2. Compile the library:
 ```
